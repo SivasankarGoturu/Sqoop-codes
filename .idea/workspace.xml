@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7e68652-a91a-4275-8911-6e80ce5e4e11" name="Changes" comment="Added all files in to this directory" />
+    <list default="true" id="f7e68652-a91a-4275-8911-6e80ce5e4e11" name="Changes" comment="Added all files in to this directory">
+      <change beforePath="$PROJECT_DIR$/3Week3_Sqoop/PasswordFile.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
